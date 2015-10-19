@@ -10,4 +10,4 @@ A boilerplate for Craft CMS with ES6 support, Gulp, Vagrant and more goodness.
 
 ## Based on:
 - [vagrant-craft](https://github.com/enovatedesign/vagrant-craft)
-- [CraftCMS-Boilerplate](httpUpds://github.com/imjakechapman/CraftCMS-Boilerplate)
+- [CraftCMS-Boilerplate](https://github.com/imjakechapman/CraftCMS-Boilerplate)
