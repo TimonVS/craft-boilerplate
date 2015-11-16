@@ -1,3 +1,8 @@
+### Craft ###
+# These files are ignored for this repository, you should remove these if you want to inlcude Craft in your repository
+craft/app/*
+craft/config/license.key
+
 ### Local config files ###
 craft/config/local/*
 
